@@ -1,9 +1,11 @@
 /*
     Implemtation of Binary Tree
-    -> Preorder Traversal
-    -> Inorder Traversal
-    -> Postorder traversal
-    -> Levelorder Traversal
+    -> DFS - Depth First Search
+        -> Preorder Traversal
+        -> Inorder Traversal
+        -> Postorder traversal
+    -> BFS - Breadth First Search
+        -> Levelorder Traversal
 */
 
 #include<iostream>
